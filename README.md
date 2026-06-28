@@ -1,10 +1,6 @@
 <h1 align="center">🎯 Jogo do Número Secreto</h1>
 
 <p align="center">
-  <img src="img/ia-card.png" alt="Imagem de capa do Jogo do Número Secreto" width="600"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow?style=for-the-badge" alt="Status: Em Desenvolvimento"/>
   <img src="https://img.shields.io/badge/VERSÃO-1.0.0-blue?style=for-the-badge" alt="Versão 1.0.0"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
