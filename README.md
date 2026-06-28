@@ -27,7 +27,7 @@
 
 ## 📖 Descrição do Projeto
 
-O **Jogo do Número Secreto** é uma aplicação web interativa desenvolvida com JavaScript puro onde o objetivo é adivinhar um número sorteado aleatoriamente pelo sistema, em um intervalo de 1 a 200.
+O **Jogo do Número Secreto** é uma aplicação web interativa desenvolvida com JavaScript puro onde o objetivo é adivinhar um número sorteado aleatoriamente pelo sistema, em um intervalo de 1 a 500.
 
 A cada tentativa, o jogo fornece dicas indicando se o número secreto é maior ou menor que o palpite, tornando a experiência desafiadora e divertida. Ao final, o jogo exibe quantas tentativas foram necessárias. O projeto também conta com acessibilidade por voz, lendo as mensagens em português via ResponsiveVoice.
 
@@ -56,7 +56,7 @@ Acesse a versão online e jogue agora:
 
 ## ✅ Funcionalidades
 
-- `Número aleatório`: sorteia um número secreto entre 1 e 200 a cada nova partida
+- `Número aleatório`: sorteia um número secreto entre 1 e 500 a cada nova partida
 - `Dicas inteligentes`: informa se o palpite deve ser maior ou menor que o número secreto
 - `Contador de tentativas`: registra e exibe quantas tentativas o jogador usou
 - `Reinício de partida`: botão "Novo jogo" reseta o jogo para uma nova rodada
@@ -89,7 +89,7 @@ Acesse diretamente pelo link: [jogo-kappa-flame.vercel.app](https://jogo-kappa-f
 ## 🕹️ Como Jogar
 
 1. Abra o jogo no navegador.
-2. Digite um número entre **1 e 200** no campo de entrada.
+2. Digite um número entre **1 e 500** no campo de entrada.
 3. Clique em **Chutar**.
 4. O jogo indicará se o número secreto é **maior** ou **menor** que o seu palpite.
 5. Continue tentando até acertar!
@@ -117,7 +117,7 @@ jogo-numero-secreto/
 └── img/         # Imagens utilizadas no projeto
 ```
 
-> **Observação:** o intervalo máximo do número secreto é configurado em `app.js` pela variável `numeroMaximo = 200`. Para alterar a dificuldade, basta modificar esse valor.
+> **Observação:** o intervalo máximo do número secreto é configurado em `app.js` pela variável `numeroMaximo = 500`. Para alterar a dificuldade, basta modificar esse valor.
 
 ---
 
